@@ -3,8 +3,13 @@ package assignments;
 public class SecondAssignment {
 
 	public static void main(String[] args) {
+
 		calcFeetAndInchesToCentimeters(100);
 		System.out.println("This is a new branch!");
+
+		calcFeetAndInchesToCentimeters(500);
+		System.out.println("This is a 3rd branch with updated code");
+
 	}
 
 	public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
