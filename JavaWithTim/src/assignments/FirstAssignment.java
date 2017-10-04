@@ -16,7 +16,7 @@ public class FirstAssignment {
 		scorePosition = calculateHighScorePosition(70);
 		displayHighscorePosition("Tom", scorePosition );
 		
-		System.out.println("THAT'S IT!");
+		System.out.println("Pizdec");
 
 	}
 
